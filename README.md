@@ -1,0 +1,1 @@
+This repository demonstrates a common React bug: forgetting to include a cleanup function in the `useEffect` hook.  The `bug.js` file shows the erroneous code. The `bugSolution.js` file provides a corrected version with the appropriate cleanup.
